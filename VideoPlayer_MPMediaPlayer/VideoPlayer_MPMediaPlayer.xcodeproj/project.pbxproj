@@ -429,6 +429,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = "Brand Assets";
 				INFOPLIST_FILE = VideoPlayer_MPMediaPlayer/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "com.dingdang.VideoPlayer-MPMediaPlayer";
@@ -440,6 +441,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = "Brand Assets";
 				INFOPLIST_FILE = VideoPlayer_MPMediaPlayer/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "com.dingdang.VideoPlayer-MPMediaPlayer";
@@ -512,6 +514,7 @@
 				953C5A551D026F0100380CEE /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		953C5A561D026F0100380CEE /* Build configuration list for PBXNativeTarget "VideoPlayer_MPMediaPlayerTests" */ = {
 			isa = XCConfigurationList;
@@ -520,6 +523,7 @@
 				953C5A581D026F0100380CEE /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		953C5A591D026F0100380CEE /* Build configuration list for PBXNativeTarget "VideoPlayer_MPMediaPlayerUITests" */ = {
 			isa = XCConfigurationList;
@@ -528,6 +532,7 @@
 				953C5A5B1D026F0100380CEE /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
